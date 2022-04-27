@@ -1,0 +1,139 @@
+/************ TAG CSS ***************/
+
+a {
+  color: #11999E;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+  }
+
+div {
+    margin: 50px auto 50px auto;
+  }
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Whisper', cursive;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  margin-left: 0;
+  margin-right: 0;
+    }
+
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+      }
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  }
+
+hr { border-style:none;
+    border-bottom-style: dotted ;
+    border-color: #EAF6F6;
+    border-width: 12px;
+    width: 10%
+  }
+
+p {
+  margin-bottom: 50px;
+}
+
+
+/************ CLASS CSS ***************/
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  color: #EAF6F6;
+  padding: 25px 15px 10px 15px;
+  margin-bottom: 0;
+  margin-top: 50px;
+  }
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.contact-me {
+  width: 500px;
+  line-height: 2;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.img-1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img-2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.middle-container {
+
+  }
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  }
+
+.top-container {
+  background-color: lightblue;
+  margin-bottom: 100px;
+  position: relative;
+  padding-top: 100px;
+  margin-top: 0
+  }
